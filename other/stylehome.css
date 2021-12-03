@@ -1,0 +1,365 @@
+*{
+    margin: 0px;
+}
+/*---Know Your Team---*/
+.knowyourteam{
+    position:relative;
+    width:100%;
+    height:335px;
+    background-image: url("image 4.png");
+}
+/*---Project Slick---*/
+.project2{
+    position:relative;
+    background: #FFFFFF;
+    width:100%;
+    height:650px;
+    /* Inside Auto Layout */
+    flex: none;
+    order: 2;
+    margin: 0px 0px;
+}
+.work{
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding:0px;
+    position: relative;
+    top:150px;
+    left:100px;
+}
+.title{
+    position: relative;
+    width: 1200px;
+    height: 121px;
+    left: 120px;
+    top: 30px;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 50px;
+    line-height: 100px;
+    /* identical to box height */
+    color: #202020;
+}
+.prev{
+    position:relative;
+    left:670px;
+}
+.next{
+    position:relative;
+    left:690px;
+}
+
+.postslider .postwrapper{
+    width:1140px;
+    height:440px;
+    overflow: hidden;
+    padding-top:18px;
+
+
+}
+.post{
+    background: #FFFFFF;
+    box-sizing: border-box;
+    display: inline-block;
+    width: 500px;
+    height: 430px;
+    border-radius:5px;
+    
+}
+.post img{
+    width:310px;
+    height:345px;
+    border-radius: 10px;
+    margin-left:35px;
+}
+.page{
+    position:relative;
+    padding-left:50px;
+    left:70px;
+    width:450px;
+}
+.btnmore{
+    position: absolute;
+    background: #4286F5;
+    border-radius:12px;
+    top:530px;
+    left: 120px;
+    height:40px;/*64*/
+    width:230px;/*297/*/
+}
+.textmore{
+    position:absolute;
+    text-align: center;
+    color:white;
+    padding-top: 10px;
+    left:30px;
+    font-size:15px;
+    font-style:normal;
+    font-family: 'Lato';
+}
+
+/*---Our Blog---*/
+.blog{
+    position:relative;
+    background: #202020;
+    width: 100%;/*1920px;*/
+    height:630px;/*976px;*/
+    left: 0px;
+    top: 0px;        }
+.hero{
+    display:flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items:center;
+    padding:0px;
+    position: relative;
+    width: 500px;
+    height: 440px;
+    left: 200px;
+    top:0px;
+    background: grey;
+}
+.main{
+    position:relative;
+    top:110px;
+    width:200vh;
+}
+.our{
+    position:absolute;
+    display:flex;
+    flex-direction:column;
+    align-items:center;
+    padding:0px;
+    width:300px;
+    height:275px;
+    left:900px;
+    top:85px;
+    flex:none;
+    order: 1;
+
+}
+.write{
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 55px;
+    line-height: 115px;
+    position: static;
+    width: 304px;
+    height: 100px;
+    left: 0px;
+    top: 0px;
+    color: #FFFFFF;
+    margin: 0px 0px;
+}
+.write2{
+    position: absolute;
+    width: 209px;
+    height: 100px;
+    left: 0px;
+    top: 105px;
+    text-align:left;
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: normal;
+    font-size: 15px;
+    line-height: 18px;
+
+    color: #FFFFFF;
+}
+.btnour{
+    position: absolute;
+    background: #4286F5;
+    border-radius:12px;
+    top:210px;
+    left: 0px;
+    height:40px;/*64*/
+    width:150px;/*297/*/
+}
+.textour{
+    position:absolute;
+    text-align: center;
+    color:white;
+    padding-top: 10px;
+    left:40px;
+    font-size:15px;
+    font-style:normal;
+    font-family: 'Lato';
+}
+
+/*---dont bew shy---*/
+
+.dontbeshy{
+    position: relative;
+    width: 100%;/*1920px;*/
+    height:100vh;/*976px;*/
+    left: 0px;
+    top: 0px;
+
+    background: #4286F5;
+
+}
+.text
+{
+    position: absolute;
+    width: 374px;
+    height: 230px;
+    left: 500px;/*776*/
+    top: 85px;/*177*/
+
+    /* Header - desktop */
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size:70px;/*96*/
+    line-height: 80px;/*115*/
+    /* or 120% */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.content{
+            
+    position: relative;
+    width: 325px;/*395*/
+    height: 165px;/*165*/
+    left: 530px;/*763*/
+    top: 300px;/*491*/
+
+    /* para - desktop */
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;/*24*/
+    line-height:24px;/*33*/
+    text-align: center;
+
+    color: #FFFFFF;
+}
+.content2{
+    
+    position: absolute;
+    width: 325px;/*395*/
+    height: 165px;/*165*/
+    left: 530px;/*763*/
+    top: 400px;/*491*/
+
+    /* para - desktop */
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    font-size: 20px;/*24*/
+    line-height:24px;/*33*/
+    text-align: center;
+
+    color: #FFFFFF;
+}
+
+.btn{
+    position: absolute;
+    background: #FABB04;
+    border-radius:12px;
+    top:480px;
+    left: 580px;
+    height:40px;/*64*/
+    width:205px;/*297/*/
+    /*transition: all 0.3s ease-in-out;*/
+}
+/*.btn:hover{*/
+    /*box-shadow: inset 16rem 0 0 0 #4286F5;*/
+
+
+/*}*/
+.text3{
+    position:absolute;
+    text-align: center;
+    color:white;
+    padding-top: 10px;
+    left:45px;
+    font-size:15px;
+    font-style:normal;
+    font-family: 'Lato';
+}
+.fa{
+    position:absolute;
+    width:30px;
+    height:30px;
+    top:550px;
+    left:600px;
+}
+.fa-github{
+    left:640px;
+}
+.fa-message{
+    left:680px;
+}
+.fa-discord{
+    left:720px;
+}
+
+/*---have a project---*/
+.haveaproject{
+    position:relative;
+    width: 100%;/*1920px;*/
+    height:100vh;/*976px;*/
+    left: 0px;
+    top: 0px;
+
+    background: #202020;
+
+}
+.text4{            
+    position: absolute;
+    width: 374px;
+    height: 230px;
+    left: 500px;/*776*/
+    top: 85px;/*177*/
+
+    /* Header - desktop */
+
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 900;
+    font-size:70px;/*96*/
+    line-height: 80px;/*115*/
+    /* or 120% */
+
+    text-align: center;
+
+    color: #FFFFFF;
+}
+span{
+    color:#FABB04;
+}
+.project{
+    color: #109D58;
+
+}
+.btn2{
+    position: absolute;
+    background:#109D58;
+    border-radius:12px;
+    top:480px;
+    left: 580px;
+    height:40px;/*64*/
+    width:205px;/*297/*/
+}
+.text2{
+    position:absolute;
+    text-align: center;
+    color:white;
+    padding-top: 10px;
+    left:65px;
+    font-size:15px;
+    font-style:normal;
+    font-family: 'Lato';
+}

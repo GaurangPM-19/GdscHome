@@ -1,0 +1,125 @@
+#footer {
+  background-color: #202020;
+  height: 450px;
+  width: 100%;
+  /* height: 673px;
+  width: 1920px; */
+}
+
+#footer p {
+  color: #ffffff;
+  font-family: Nunito;
+  font-size: 38px;
+  font-style: normal;
+  font-weight: 800;
+  line-height: 52px;
+  letter-spacing: 0em;
+  word-spacing: 0em;
+  height: 00px;
+  width: 300px;
+  position: absolute;
+  padding-left: 155px;
+  padding-top: 30px;
+}
+
+#footer .para1 {
+  padding-left: 550px;
+  width: 305px;
+  height: 65px;
+}
+
+#footer .para2 {
+  padding-left: 980px;
+  width: 250px;
+  height: 130px;
+}
+
+#footer h3 {
+  color: #ffffff;
+  font-family: Nunito;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 500;
+  line-height: 33px;
+  height: 33px;
+  width: 227px;
+  padding-left: 550px;
+  padding-top: 135px;
+}
+
+#footer .text {
+  color: #ffffff;
+  height: 13px;
+  width: 300px;
+  left: 61px;
+  top: 0px;
+  font-size: 20px;
+  border-radius: nullpx;
+  padding-top: 5px;
+  text-align: left;
+  padding-left: 1025px;
+}
+
+#footer .vector {
+  height: 36px;
+  width: 28px;
+  border-radius: 0px;
+  padding-left:980px;
+  margin-top: -24px;
+  padding-bottom: 100px;
+}
+
+#footer .end {
+  color: #ffffff;
+  font-family: Nunito;
+  font-size: 20px;
+  font-style: normal;
+  line-height: 33px;
+  letter-spacing: 0em;
+  width: 300px;
+  padding-top: 80px;
+  padding-left: 200px;
+}
+
+#footer .team {
+  color: rgb(199, 33, 33);
+  padding-left: 450px;
+  padding-top: 122px;
+  margin-top: -175px;
+  font-size: 18px;
+  letter-spacing: 0.02em;
+  font-weight: 500;
+}
+
+#footer .last {
+  color: #ffffff;
+  font-family: Nunito;
+  font-size: 20px;
+  font-style: normal;
+  line-height: 33px;
+  letter-spacing: 0em;
+  width: 1300px;
+  padding-left: 500px;
+  padding-top: 22px;
+  margin-top: -72px;
+}
+
+#footer .box {
+  color: #ffffff;
+  height: 50px;
+  width: 250px;
+  font-weight: 520;
+  margin-top: -266px;
+  margin-left: 30px;
+  text-decoration: none;
+}
+
+#footer .blue {
+  height: 50px;
+  width: 250px;
+  border-radius: 12px;
+  margin-left: -470px;
+  margin-top: -400px;
+  margin-bottom: 85px;
+  text-decoration: none;
+}
